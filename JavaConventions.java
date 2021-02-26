@@ -38,6 +38,5 @@ public class JavaConventions {
                 .forEach(x-> System.out.println(x[0]));
     }	
     
-
 }
 
