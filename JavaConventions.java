@@ -37,7 +37,6 @@ public class JavaConventions {
         data.stream()
                 .forEach(x-> System.out.println(x[0]));
     }	
-    
 
 }
 
